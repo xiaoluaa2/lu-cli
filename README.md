@@ -10,7 +10,7 @@ $ yarn global add lubowen-cli
 
 ## 使用
 ### 创建模版
-$ npx  xiaolu create <br />   
+$ npx  xiaolu create  
 $ npx  xiaolu create <name>   
 $ npx  xiaolu create <name> [-t|--template]  
 ### 示例  
