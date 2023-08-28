@@ -18,7 +18,7 @@ $ xiaolu create
 $ xiaolu create 'xxx'   
 $ xiaolu create 'xxx' -t vue-vite-app    
 
-## 使用
+## 借助npx
 ### 创建模版   
 $ npx  lubowen-cli create     
 $ npx  lubowen-cli create <name>   
